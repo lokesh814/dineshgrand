@@ -21,7 +21,7 @@ p{margin-bottom: 1em;line-height: 1.5em;color: #AEAEAC;}
 .spacer{padding:6em 0; }
 
 /*nav*/
-.navbar{margin: 0;}
+.navbar{margin: 0; border-radius: 0;}
 .navbar-nav{margin:0 -15px;}
 .navbar-nav > li > a{font-size: 1em;line-height: 4.26em;padding: 10px 0 10px 30px;color: #ffffff !important;}
 .navbar-default{border:none;background: #640c26;color: rgb(255, 255, 255);
@@ -176,7 +176,8 @@ body::-webkit-scrollbar {
     .navbar-nav > li > a{line-height: 1em;}
 
     h1 {font-size: 2em;}
-    .banner p {font: 300 1em/1em 'Old Standard TT', serif;}
+    #imgspecial{width:100% !important; height: 100% !important;}
+    .banner p {font: 300 1em/1em 'Old Standard TT', serif;margin-bottom:20px;}
     .banner .arrow-nav{margin-left: -22px;height: 3em;width: 3em;bottom: -1.5em;}
     .banner .arrow-nav i {font-size: 2em;line-height: 45px;}
 

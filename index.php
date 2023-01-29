@@ -16,7 +16,7 @@ $("#call-us-button").click(function() {
 
 <!-- banner -->
 <div class="banner" id="banner">    	   
-    <img src="images/photos/15.jpg"   style="display:block; margin:auto;width: auto; height: 100vh; padding: 3rem!important;" alt="slide">
+    <img src="images/photos/15.jpg"   id="imgspecial" style="display:block; margin:auto;width: auto; height: 100vh; padding: 3rem!important;" alt="slide">
     <div class="welcome-message">
         <div class="wrap-info">
             <div class="information">
