@@ -26,9 +26,9 @@ $("#call-us-button").click(function() {
                 <i class="fa-solid fa-phone"></i> Contact Us
                 <a href="tel:94914 05839" id="call-us-button" ></a>
             </button>    
-            <button id="contact-us-btn" onclick="scrollToElement('direction')">
-                <i class="fa-solid fa-location-arrow"></i> Get Directions
+            <button id="contact-us-btn">
                 
+                <a href="https://goo.gl/maps/PAR3cfY4XfQPYXhX8" target="_blank" rel="noopener noreferrer">Get Directions</a>
             </button>             
             </div>
             
