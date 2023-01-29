@@ -23,8 +23,8 @@
                     <?php echo '📧 Email: dineshgrantnrt@gmail.com'; ?>
                 </p>
                 <div class="social">
-                    <a href="#"><i class="fa-brands fa-facebook-f" data-toggle="tooltip" data-placement="top" data-original-title="facebook"></i></a>
-                    <a href="#"><i class="fa-brands fa-instagram"  data-toggle="tooltip" data-placement="top" data-original-title="instragram"style="margin-left: 15px;"></i></a>
+                    <a href="https://www.facebook.com/dineshgrandnrt" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-facebook-f" data-toggle="tooltip" data-placement="top" data-original-title="facebook"></i></a>
+                    <a href="https://instagram.com/dineshgrandnrt" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram"  data-toggle="tooltip" data-placement="top" data-original-title="instragram"style="margin-left: 15px;"></i></a>
                 </div>
                 </div>
                  

@@ -76,7 +76,7 @@ $("#call-us-button").click(function() {
                 
             </div>
             <!-- RoomCarousel-->
-            <div class="caption">Luxury Rooms<a href="rooms-tariff.php" class="pull-right"></a></div>
+            <div class="caption">Luxury Rooms</div>
         </div>
 
 
@@ -92,7 +92,7 @@ $("#call-us-button").click(function() {
                 <a class="right carousel-control" href="#TourCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
             </div>
             <!-- RoomCarousel-->
-            <div class="caption">Suite Rooms<a href="gallery.php" class="pull-right"></i></a></div>
+            <div class="caption">Suite Rooms</div>
         </div>
 
 
@@ -100,14 +100,14 @@ $("#call-us-button").click(function() {
             <!-- RoomCarousel -->
             <div id="FoodCarousel" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
-                <div class="item active "><img src="images/photos/1.jpg" class="img-responsive" alt="slide"></div>
+                <div class="item active"><img src="images/photos/1.jpg" class="img-responsive" style="height:270px"alt="slide"></div>
                 </div>
                 <!-- Controls -->
                 <!-- <a class="left carousel-control" href="#FoodCarousel" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
                 <a class="right carousel-control" href="#FoodCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a> -->
             </div>
             <!-- RoomCarousel-->
-            <div class="caption">Banquet Hall<a href="gallery.php" class="pull-right"></a></div>
+            <div class="caption">Banquet Hall</div>
         </div>
     </div>
 </div>

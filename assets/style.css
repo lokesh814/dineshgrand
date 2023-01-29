@@ -34,7 +34,7 @@ p{margin-bottom: 1em;line-height: 1.5em;color: #AEAEAC;}
 /*SLIDER*/
 .banner {position: relative;color: #fff;}
 .banner p{font:300 1.35em/4em 'Old Standard TT', serif;margin:0;color: #ffffff; }
-.banner img.img-responsive{width: 100%;}
+.banner .img.img-responsive{width: 100%;}
 .banner .welcome-message{position: absolute;left: 0;right:0;bottom:0;top:0;text-align: center;}
 .banner .welcome-message .wrap-info{display: table;height: 100%;width: 100%;}
 .banner .welcome-message .wrap-info .information{display: table-cell;vertical-align: middle;color: #ffffff; height:100%}
