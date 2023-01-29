@@ -52,7 +52,7 @@ $("#call-us-button").click(function() {
 
 <p>Whether you are here for a special occasion or a business trip, our hotel's banquet hall is the perfect venue to host your events. Our grand banquet hall can accommodate up to 200 guests and can be customized to suit your specific needs, whether it's a business conference, engagement, or a birthday party.</p>
 
-<p>Located in the prime Narasaraopet area, our hotel is surrounded by an array of shops, restaurants, and entertainment options. We are just 200 meters away from the Narasaraopet railway station, making it easy for our guests to explore the city and its many attractions.</p>
+<p>Located in the prime Narasaraopet area, our hotel is surrounded by an array of shops, restaurants, Hospitals and Government Offices. We are just 200 meters away from the Narasaraopet railway station and very near to Government Offices such as Palnadu Collecter Office, making it easy for our guests to explore the city and its many attractions.</p>
 
 <p>At Dinesh Grand Hotel, we pride ourselves on providing exceptional service and attention to detail. Our friendly and professional staff is dedicated to ensuring that your stay with us is as comfortable and enjoyable as possible. We look forward to welcoming you to our hotel and making your visit to Narasaraopet a memorable one.</p>
 </div>
