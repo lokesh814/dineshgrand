@@ -70,9 +70,9 @@ function scrollToElement(elementId) {
     <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
       
       <ul class="nav navbar-nav">        
-        <li><a onclick="scrollToElement('banner')">Home </a></li>
-        <li><a onclick="scrollToElement('information')">About Us</a></li>        
-        <li><a onclick="scrollToElement('gallery')">Rooms and Banquet Hall</a></li>
+        <li><a href="#" onclick="event.preventDefault(); scrollToElement('banner')" >Home </a></li>
+        <li><a href="#" onclick="event.preventDefault(); scrollToElement('information')" >About Us</a></li>        
+        <li><a href="#" onclick="event.preventDefault(); scrollToElement('gallery')" >Rooms and Banquet Hall</a></li>
         <li><a onclick="scrollToElement()">Contact</a></li>
       </ul>
     </div><!-- Wnavbar-collapse -->

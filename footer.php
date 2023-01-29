@@ -20,7 +20,7 @@
                      <?php echo '📱 Phone: +91-94914 05839'; ?>
                 </p>
                 <p>
-                    <?php echo '📧 Email: dineshgrantnrt@gmail.com'; ?>
+                    <?php echo '📧 Email: dineshgrandnrt@gmail.com'; ?>
                 </p>
                 <div class="social">
                     <a href="https://www.facebook.com/dineshgrandnrt" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-facebook-f" data-toggle="tooltip" data-placement="top" data-original-title="facebook"></i></a>
